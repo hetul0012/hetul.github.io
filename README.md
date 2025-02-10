@@ -11,11 +11,11 @@
 - Expanded Content and Interactivity
 
 #### 3. How to install and run the project
-Step 1 : Open the GitHub Repository and click on it.
-Step 2 : Create a New Repository
-Step 3 : Clone the Repository
-Step 4 : Open in a Code Editor
-Step 5 : Run the Project.
+- Step 1 : Open the GitHub Repository and click on it.
+- Step 2 : Create a New Repository
+- Step 3 : Clone the Repository
+- Step 4 : Open in a Code Editor
+- Step 5 : Run the Project.
 
 
 #### 5. Add a license
